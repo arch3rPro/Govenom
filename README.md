@@ -5,9 +5,9 @@ Generate MSFVenom shells in command line :)
 
 ## To-do List
 - [x] v0.1 Generate MSFVenom shells in command line.
-- [] v0.2 Support Bind Shell and Reverse Shell.
-- [] v0.3 Supported Command execution and generate a Litener.
-- [] v0.4 Provide WebUI or GUI.
+- [ ] v0.2 Support Bind Shell and Reverse Shell.
+- [ ] v0.3 Supported Command execution and generate a Litener.
+- [ ] v0.4 Provide WebUI or GUI.
 
 ## Usage
 This panel appears when typing `./Govenom -h` :
